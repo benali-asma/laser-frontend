@@ -4,13 +4,13 @@
 
 ### Backend
 
-1. Allez dans le dossier `laser-game-reservation`
+1. clone the url 
 2. Installez les dépendances : `npm install`
 3. Démarrez le serveur : `npm start`
 
 ### Frontend
 
-1. Allez dans le dossier `laser-game-frontend`
+1. clone the url
 2. Installez les dépendances : `npm install`
 3. Démarrez l'application React : `npm start`
 
